@@ -1,20 +1,27 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<p align="center">
+  <img src="assets/logo.png" alt="Re:Learned Logo" width="200"/>
+</p>
 
 
-I like to drink :beers: after I play :soccer:
+
+
+# Welcome to [Re:Learned]!
+
+Explore science, math, stories, and more.  
+Select a section from the sidebar to get started.
+
+---
+- [Physics](Physics/index.md): Dive into chapters like Thermodynamics and more.
+- [Math](Math/index.md): Explore mathematical concepts and problem–solving.
+- [Sci-Fi Short Stories](Sci-Fi/index.md): Read and submit creative science fiction.
+- [Student Submissions](Student Submissions/index.md): See what your peers have created.
+- [Philosophy](Philosophy/index.md): Reflect on the big questions in science.
+- [Pop Science & Culture](Pop-Science/index.md): Discover science in everyday life.
+- [Clarity Hub](Clarity Hub/index.md): Get clear explanations for tricky topics.
+- [Beyond School](Beyond School/index.md): Learn skills and ideas for life beyond the classroom.
+---
+
+*Have feedback or ideas? Scroll down to share your thoughts!*
+
+[def]: Physics/index.md

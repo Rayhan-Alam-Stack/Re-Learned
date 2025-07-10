@@ -1,6 +1,0 @@
-!!! note
-    Content
-
-
-??? note 
-   content 
